@@ -1,0 +1,8 @@
+name: voila
+
+channels:
+  - conda-forge
+  - conda
+  
+dependencies:
+  - voila
