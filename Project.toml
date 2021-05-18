@@ -4,7 +4,7 @@ authors = ["omiethescientist <55815833+omiethescientist@users.noreply.github.com
 version = "0.1.0"
 
 [compat]
-julia = "1.6"
+julia = "1.5.3"
 
 [deps]
 Interact = "c601a237-2ae4-5e1e-952c-7a85b0c7eef1"
